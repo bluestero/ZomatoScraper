@@ -1,1 +1,2 @@
 # ZomatoScraper
+Fun Zomato Scraper.
